@@ -2,7 +2,7 @@
 
  ## Contacts
 * **E-mail:** rpsi-mono@yandex.ru
-* **Telegram:** [@timurec] (https://t.me/t1murec)
+* **Telegram:** [t1murec](https://t.me/t1murec)
  
  ## Summary
 
