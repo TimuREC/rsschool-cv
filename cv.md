@@ -5,10 +5,23 @@
 * **Telegram:** [t1murec](https://t.me/t1murec)
  
  ## Summary
+ I worked in the Federal Tax Service Inspectorate for the city of Naberezhnye Chelny of the Republic of Tatarstan. In addition to my direct responsibilities, I was entrusted with the functions of a technologist: helping department employees with questions regarding the use of software, in case of problems with the use of software - analyzing the causes and describing the situation in which the problem occurs, in order to bring the problem to the developers. Also, when adding new functions to the software, I trained the department employees.
+ I studied programming on my own. The most interesting area of ​​development is for iOS.
+ I have no experience in commercial development.
 
  ## Skills
+* Programming languages: Swift, C ++, C
+* Layout of the interface both in code and using Storyboard
+* Autolayout, UIKit, Core Data, Alamofire, Firebase
+* Understanding multithreading
+* Worked with API, JSON
+* Experience in creating an application with support for devices with iOS 12 and newer
+* Understanding OOP
+* I have an idea of the design patterns MVC, VIPER. Carries out educational projects using them.
+* GitHub, Command Line (Terminal)
 
  ## Experience
+ I have no work experience as a developer, but a lot of self-study.
 
  ## Education
  Period|University|Education level|Program name
