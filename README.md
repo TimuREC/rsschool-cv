@@ -1,1 +1,1 @@
-[CV](https://timurec.github.io/rsschool-cv/cv)
+[CV](https://timurec.github.io/rsschool-cv/)
